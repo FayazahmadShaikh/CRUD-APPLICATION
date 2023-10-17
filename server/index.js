@@ -18,4 +18,5 @@ app.get("/",(req,res)=>{
 });
 app.listen(3001,()=>{
     console.log('App is running at port 3001')
+    console.log('App is running at port 3001')
 })
